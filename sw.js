@@ -5,14 +5,7 @@ const ASSETS_TO_CACHE = [
     './style.css',
     './app.js',
     './manifest.json',
-    // 実際の動画ファイルパスをここに列挙する必要があります
-    './assets/videos/mid_guard_success.mp4',
-    './assets/videos/mid_attack_hit.mp4',
-    './assets/videos/low_attack_seq.mp4',
-    './assets/videos/throw_tech_success.mp4',
-    './assets/videos/throw_hit.mp4',
-    './assets/videos/counter_hit_success.mp4',
-    './assets/videos/meaty_hit.mp4'
+    './videos/2xko-warwick-mid-wakeup-front-fail.mp4'
 ];
 
 // インストール時に全てキャッシュ
